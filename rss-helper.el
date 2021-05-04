@@ -1,4 +1,4 @@
-;;; rss-helper.el - Utilities for using RSS files with Gnus
+;;; rss-helper.el --- Utilities for using RSS files with Gnus
 
 ;; Copyright (C) 2002 Mark A. Hershberger.
 
